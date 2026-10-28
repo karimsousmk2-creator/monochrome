@@ -1,0 +1,378 @@
+.page-globale {
+    position: absolute;
+    width: 1280px;
+    height: 2789px;
+}
+
+.icone{
+     position: absolute;
+    top: 27px;
+    left: 58px;
+}
+
+
+.lagence{
+    position: absolute;
+    top: 27px;
+    right: 500px;
+    font-weight: bold;
+    font-size: 70px 19px;
+   
+   
+}
+
+.projets{
+    position: absolute;
+    top: 27px;
+    right: 400px;
+    font-weight: bold;
+    font-size: 89px 19px;
+    
+    
+}
+
+.lequipe{
+    position: absolute;
+    top: 27px;
+    right: 300px;
+    font-weight: bold;
+    font-size: 66px 19px;
+}
+  
+
+.comu{
+    position: absolute;
+    top: 27px;
+    right: 150px;
+    font-weight: bold;
+    font-size: 129px 19px;
+}
+ 
+
+
+
+.ibm {
+   
+    position: absolute;
+    top: 114px;
+    background-size: 1280px 578px;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+ 
+.text{
+    position: absolute;
+    top: 277px;
+    left: 260px;
+    width: 488px;
+    height: 129px;
+color: aliceblue;
+font-weight: bold;
+
+
+}
+
+
+
+.p{
+    position: absolute;
+    top:425px;
+    left: 260px;
+    width: 488px;
+    height: 34px; 
+    color: aliceblue;
+    
+
+}
+
+.Less{
+    position: absolute;
+    width: 556px;
+    height: 43px;
+    top: 755px;
+    left:266px;
+    font-weight: bold;
+}
+
+.bt{
+ position: absolute;
+ width: 488px;
+ height: 34px;
+ top: 803px;
+ left: 266px;
+
+
+}
+
+.dis{
+    position: absolute;
+    width: 216px;
+    height: 48px;
+    top: 897px;
+    left: 266px;
+    font-weight: bold;
+}
+
+.p2{
+    position: absolute;
+    width: 216px;
+    height: 115px;
+    top: 959px;
+    left: 266px;
+}
+.conc{
+    position: absolute;
+    width: 215px;
+    height: 48px;  
+    top: 897px;
+    left: 532px;
+    font-weight: bold;
+
+}
+.larc{
+    position: absolute;
+    width: 216px;
+    height: 126px;
+    top: 959px;
+    left:532px ;
+    
+
+    
+}
+.ame{
+    position: absolute;
+    width: 204px;
+    height: 48px;
+    top: 897px;
+    left: 798px;
+    font-weight: bold;
+}
+
+.p3{
+    position: absolute;
+    width: 216px;
+    height: 115px;
+    top: 959px;
+    left:798px;
+    
+}
+.ens{
+    position: absolute;
+    background-color: #353424;
+    text-align: center;
+    color: aliceblue;
+    width: 130px;
+    height: 31px;
+    top: 1098px;
+    left: 266px;
+    margin-top: 7px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 7px;
+white-space: 57px;
+border-radius: 7px;
+flex-grow: horizontal ;
+padding: 4px;
+}
+
+
+
+.ens2{
+    position: absolute;
+    background-color: #353424;
+    background-position:center;
+    color: aliceblue;
+    width: 130px;
+    height: 31px;
+    top: 1098px;
+    left: 532px;
+    margin-top: 7px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 7px;
+white-space: 57px;
+border-radius: 7px;
+flex-grow: horizontal ;
+padding: 4px;
+ text-align: center;
+}
+
+
+
+
+
+.ens3{
+    position: absolute;
+    background-color: #353424;
+    background-position:center;
+    color: aliceblue;
+    width: 130px;
+    height: 31px;
+    top: 1098px;
+    left: 798px;
+    margin-top: 7px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 7px;
+white-space: 57px;
+border-radius: 7px;
+flex-grow: horizontal ;
+padding: 4px;
+ text-align: center;
+}
+.img2{
+    position: absolute;
+    width: 1283px;
+    height: 385px;
+    top: 1219px;
+}
+
+.ils
+
+{position: absolute;
+width: 556px;
+height:43px ;
+top: 1267px;
+left:266px;
+font-weight: bold;
+color: aliceblue;
+}
+
+
+.img3{
+position: absolute;
+flex-grow:horizontal;
+width: 797px;
+height: 90px;
+top:1375px ;
+left: 242px;
+
+
+}
+
+.dec{
+
+    position: absolute;
+    background-color:white ;
+    background-position: center;
+    width: 134px;
+    height:31px ;
+    top: 1524px;
+    left:575px ;
+    border-radius: 4px;
+       margin-top: 7px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 7px;
+white-space: 57px;
+flex-grow: horizontal ;
+text-align: center;
+padding: 4px;
+
+
+}
+
+.Nos{
+    position: absolute;
+    width: 556px;
+    height: 43px;
+    top: 1664px;
+    left: 266px;
+}
+
+.foui{
+
+    position: absolute;
+    width: 466px;
+    height: 16px;
+    top: 1715px;
+    left:266px ;
+
+}
+
+.saif{
+
+    position: absolute;
+    width: 350px;
+    height: 233px;
+    top: 1770px;
+    left: 266px;
+    white-space: 17px;
+
+}
+
+.lum{
+
+   position: absolute;
+    font-weight: bold;
+    width: 348px;
+    height: 111px;
+     top: 1770px;
+    left: 266px;
+    white-space: 17px;
+   
+   
+
+}
+
+
+
+.urb{
+position: absolute;
+    width: 350px;
+    height: 233px;
+    top: 1770px;
+    left: 664px;
+    white-space: 17px;
+
+}
+
+.oas{
+
+    position: absolute;
+    width:350px ;
+    height:338px ;
+    top: 2172px;
+    left: 266px;
+    white-space: 17px;
+    
+}
+.buz{
+
+    position: absolute;
+    width: 350px;
+    height: 361px;
+    top: 2172px;
+    left: 664px;
+    white-space: 17px;
+}
+.fr{
+
+    position: absolute;
+    width:52px;
+    height:54px ;
+    top: 2630px ;
+    left: 614px;
+    background-color:#353424 ;
+    background-size: 1280px 183px;
+    background-position: center;
+}
+
+.mo{
+
+    position: absolute;
+    width: 135px;
+    height:17px ;
+    top:2699px ;
+    left:573px ;
+
+}
+
+.fin{
+
+    position: absolute;
+    width:187px ;
+    height:17px ;
+    top:2731px ;
+    left:547px ;    
+}
